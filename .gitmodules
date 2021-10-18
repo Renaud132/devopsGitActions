@@ -1,3 +1,6 @@
 [submodule "devopsGitActions"]
 	path = devopsGitActions
 	url = git@github.com:fwalravens/ProjAalst3-G1-Backend-Web.git
+[submodule "ProjAalst3-G1-Backend-Web"]
+	path = ProjAalst3-G1-Backend-Web
+	url = git@github.com:fwalravens/ProjAalst3-G1-Backend-Web.git
